@@ -1,0 +1,68 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>编辑_edit.svg</file>
+    <file>六边立体_hexagonal.svg</file>
+    <file>落日_sunset.svg</file>
+    <file>魔方_cube-five.svg</file>
+    <file>三棱锥_triangular-pyramid.svg</file>
+    <file>三菱_mitsubishi.svg</file>
+    <file>上传_upload.svg</file>
+    <file>设置_setting-two.svg</file>
+    <file>刷新_refresh.svg</file>
+    <file>提示_tips.svg</file>	
+    <file>图片下载_down-picture.svg</file>
+    <file>logo1.jpeg</file>
+    <file>logo2.jpeg</file>
+    <file>logo3.png</file>
+    <file>logo4.jpeg</file>
+    <file>bg1.jpeg</file>
+  </qresource>
+
+  <qresource prefix="pi">
+    <file>1.jpg</file>
+    <file>white.jpg</file>
+    <file>2.png</file>
+    <file>3.png</file>
+    <file>4.png</file>
+    <file>VCG211254398346.jpg</file>
+    <file>VCG211254598128.jpg</file>
+    <file>VCG211254980537.jpg</file>
+    <file>VCG211261069587.jpg</file>
+    <file>VCG211261069588.jpg</file>
+    <file>VCG211262610302.jpg</file>
+    <file>VCG211267968141.jpg</file>
+    <file>VCG211276404877.jpg</file>
+    <file>VCG211298174838.jpg</file>
+    <file>VCG211299763737.png</file>
+    <file>VCG211306267509.jpg</file>
+    <file>VCG211321409264.jpg</file>
+    <file>VCG211327946338.jpg</file>
+    <file>VCG211333379842.jpg</file>
+    <file>VCG211353810345.jpg</file>
+    <file>VCG211354291901.png</file>
+    <file>VCG211362805458.jpg</file>
+    <file>VCG211371597574.jpg</file>
+    <file>VCG211397463306.jpg</file>
+    <file>VCG211399067154.jpg</file>
+    <file>VCG211399067307.jpg</file>
+    <file>VCG211400427570.jpg</file>
+    <file>VCG211407745613.jpg</file>
+    <file>fuck_test_1.png</file>
+    <file>logo2(已去底).jpeg</file>
+    <file>ljz_1(已去底).png</file>
+    <file>fuck_test_2.png</file>
+    <file>ljz_2.png</file>
+   <file>背景2.png</file>
+  <file>微信图片_20230412225900.png</file>
+  <file>微信图片_20230412225916.png</file>
+  <file>微信图片_20230412225924.png</file>
+  <file>微信图片_20230412225930.png</file>
+  <file>微信图片_20230412225934.png</file>
+  <file>文字转图像背景.png</file>
+  <file>微信图片_20230413003958.png</file>
+  <file>背景3.png</file>
+  </qresource>
+</RCC>
+
+
+
